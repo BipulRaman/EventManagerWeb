@@ -1,1 +1,1 @@
-# EventManagerWeb
+# EventManagerWeb React
